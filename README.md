@@ -1,2 +1,2 @@
 # aprendendo2
-aprendendo manualmente git
+aprendendo manualmente git Com andrei e carlos
